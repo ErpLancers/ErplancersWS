@@ -1,3 +1,5 @@
+abiword
+synaptic
 openssh-server
 calamares
 calamares-settings-debian
@@ -9,7 +11,6 @@ tomcat11
 tomcat11-admin
 tomcat11-examples
 tomcat11-docs
-
 live-boot
 live-config
 live-config-systemd
@@ -95,6 +96,8 @@ bzip2
 p7zip-full
 network-manager*
 task-gnome-desktop
+task-xfce-desktop
+aptitude
 gnome-boxes
 basex
 groonga*
