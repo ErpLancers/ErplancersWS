@@ -1,4 +1,3 @@
-abiword
 synaptic
 openssh-server
 calamares
@@ -95,8 +94,7 @@ unzip
 bzip2
 p7zip-full
 network-manager*
-task-gnome-desktop
-task-xfce-desktop
+task-mate-desktop
 aptitude
 gnome-boxes
 basex
