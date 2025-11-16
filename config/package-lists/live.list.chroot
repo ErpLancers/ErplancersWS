@@ -1,3 +1,35 @@
+cantor*
+electronics-all
+zookeeperd
+zookeeper
+proftpd*
+wireshark
+cockpit*
+knot*
+inkscape
+gimp
+ffmpeg
+obs-studio
+obs*
+vlc*
+qwinff
+winff
+kicad*
+arpon
+arptables
+cups*
+kdenlive
+airstrike
+bloboats
+bzflag
+avfs
+preload
+nmap 
+nis
+nmapsi4
+zram-tools
+gh
+gdebi
 synaptic
 openssh-server
 calamares
@@ -5,6 +37,8 @@ calamares-settings-debian
 libreoffice
 swig
 ninja-build
+codeblocks*
+codelite*
 cmake-qt-gui
 tomcat11
 tomcat11-admin
@@ -18,6 +52,7 @@ live-config-systemd
 live-tools
 systemd-sysv
 sudo
+freecad
 curl
 wget
 gnupg
@@ -46,7 +81,6 @@ ivy
 
 postgresql-17*
 emacs-gtk
-crossbuild-essential*
 postgresql-contrib
 mariadb-server
 mariadb-client
@@ -55,7 +89,7 @@ redis-tools
 sqlite3
 rabbitmq-server
 activemq
-prometheus
+prometheus*
 zabbix-agent
 zabbix-server-mysql
 zabbix-frontend-php
@@ -81,6 +115,7 @@ iproute2
 tcpdump
 nmap
 dnsutils
+dnsmasq
 bind9
 bind9utils
 bind9-doc
@@ -94,7 +129,8 @@ unzip
 bzip2
 p7zip-full
 network-manager*
-task-mate-desktop
+task-kde-desktop
+kde-full
 aptitude
 gnome-boxes
 basex
@@ -139,7 +175,6 @@ manpages-dev
 info
 xorg
 chromium
-firefox-esr
 remmina
 filezilla
 x2goserver
