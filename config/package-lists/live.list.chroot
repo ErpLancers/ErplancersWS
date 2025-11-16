@@ -115,7 +115,8 @@ iproute2
 tcpdump
 nmap
 dnsutils
-dnsmasq
+openstack-toaster
+ceph
 bind9
 bind9utils
 bind9-doc
