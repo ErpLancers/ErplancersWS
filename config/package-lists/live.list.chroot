@@ -1,4 +1,6 @@
-apt-setup
+clang
+crossbuild-essentials*
+qemu-system*
 cantor*
 electronics-all
 zookeeperd
